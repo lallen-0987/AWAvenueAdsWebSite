@@ -8,7 +8,7 @@
 ### 项目/组织/企业
 - [「CLOUDFLARE」- 随时随地连⁠接、保⁠护、构建](https://www.cloudflare.com/)
 - [「Tencent EdgeOne」- 提供多项可靠的加速与防护服务](https://edgeone.ai/zh?from=github)
-- [「zmto Enterprise Cloud」- 可靠的企业级云服务商，一切皆可连接](https://zmto.com/)
+- [「zmto Enterprise Cloud」- 曾经的赞助商，感谢一路以来提供的云服务支持](https://zmto.com/)
 - [「Vercel」- 曾经的自动化云服务商，尽管现在已经不使用了](https://vercel.com/)
 - [「AdGuardHome」 by AdguardTeam](https://github.com/AdguardTeam/AdGuardHome)
 - [「在花新闻频道」 Telegram 中文圈知名的新闻频道](https://t.me/zaihuanews/)

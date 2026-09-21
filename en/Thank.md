@@ -6,7 +6,7 @@ _(The order below does not indicate ranking)_
 
 ### Projects / Organizations / Companies
 - [**CLOUDFLARE** – Connect, protect, and build everywhere](https://www.cloudflare.com/)
-- [**zmto Enterprise Cloud** – Reliable enterprise-level cloud service provider](https://zmto.com/)
+- [**zmto Enterprise Cloud** – A former sponsor; thanks for the cloud infrastructure support along the way](https://zmto.com/)
 - [**Vercel** – Once our automated cloud provider, though we no longer use it today](https://vercel.com/)
 - [**AdGuardHome** by AdguardTeam](https://github.com/AdguardTeam/AdGuardHome)
 - [**Zaihua News Channel** – Well-known Telegram news channel](https://t.me/zaihuanews/)
